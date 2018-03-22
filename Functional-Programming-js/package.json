@@ -1,0 +1,13 @@
+{
+  "name": "map-filter-reduce.js",
+  "version": "1.0.0",
+  "description": "A repo. that demonstrates use of functional programming in javascript",
+  "main": "map.js",
+  "keywords": [
+    "map",
+    "reduce",
+    "filter"
+  ],
+  "author": "divyanshu Rawat",
+  "license": "MIT"
+}
